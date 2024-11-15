@@ -1,2 +1,2 @@
 # LotusBeacon
-One of a project in ETHGlobal Bangkok 
+This repo aggregates all of the repos we created for HelloACAI.
